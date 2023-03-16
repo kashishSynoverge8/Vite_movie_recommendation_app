@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+      "city": "Ahmedabad",
+      "theatres": ["The Connplex Prahlad Nagar","PVR Cinemas (Acropolis Mall)","City Gold Cinema","Cinepolis Nexus (Ahmedabad One)"]
+    },
+    {
+        "id":2,
+        "city":"Surat",
+        "theatres":["City Plus Multiplex","PVR Rahul Raj Surat","Time Cinema Surat Pal","INOX Reliance Mall"]
+    },
+    {
+        "id":3,
+        "city":"Rajkot",
+        "theatres":["R World INOX","Galaxy Cinema Rajkot","Inox Cinema","R world rajkot"]
+    },
+    {
+        "id":4,
+        "city":"Vadodara",
+        "theatres":["PVR Talkies Deep","CINEMERA Multiplex","Mukta A2 Cinemas, Vadodara","PVR Cinemax Cinemall Vadodara"]
+    }
+]    
